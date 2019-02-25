@@ -1,2 +1,2 @@
-# VolumetricCapture
-A multi-sensor capture system for free viewpoint video.
+# 360Fusion
+3D human performance & 360 video embedding.
